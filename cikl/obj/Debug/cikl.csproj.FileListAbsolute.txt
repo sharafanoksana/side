@@ -1,0 +1,7 @@
+C:\Users\marina\Documents\Progects\Lessens\cikl\cikl\cikl\bin\Debug\cikl.exe.config
+C:\Users\marina\Documents\Progects\Lessens\cikl\cikl\cikl\bin\Debug\cikl.exe
+C:\Users\marina\Documents\Progects\Lessens\cikl\cikl\cikl\bin\Debug\cikl.pdb
+C:\Users\marina\Documents\Progects\Lessens\cikl\cikl\cikl\obj\Debug\cikl.csprojAssemblyReference.cache
+C:\Users\marina\Documents\Progects\Lessens\cikl\cikl\cikl\obj\Debug\cikl.csproj.CoreCompileInputs.cache
+C:\Users\marina\Documents\Progects\Lessens\cikl\cikl\cikl\obj\Debug\cikl.exe
+C:\Users\marina\Documents\Progects\Lessens\cikl\cikl\cikl\obj\Debug\cikl.pdb
